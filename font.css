@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'iconfont';
+  src: url(''); /* IE9*/
+  src: url('') format(''), /* IE6-IE8 */
+  url('') format('woff'), /* chrome、firefox */
+  url('') format(''), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url('') format(''); /* iOS 4.1- */
+}
+.iconfont {
+  font-family: "iconfont";
+  font-size: 1em;
+  font-style: normal;
+}
