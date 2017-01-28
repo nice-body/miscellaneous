@@ -11,6 +11,9 @@ insert_final_newline = true
 [GNUmakefile | makefile | Makefile]
 indent_sytle = tab
 
+[*.dart]
+indent_size = 2
+
 [*.css]
 indent_size = 2
 
